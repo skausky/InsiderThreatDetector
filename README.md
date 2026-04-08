@@ -1,4 +1,5 @@
 # Insider Threat Detector
+<img width="1905" height="865" alt="image" src="https://github.com/user-attachments/assets/45ef2b6f-6b48-49a0-b5d6-6e4318e9dd5d" />
 
 A full-stack insider threat monitoring system for Windows lab environments. A compiled C agent silently monitors endpoints and ships telemetry to a Python backend that scores risk and surfaces alerts through a real-time web dashboard.
 
